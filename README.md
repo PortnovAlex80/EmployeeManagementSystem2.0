@@ -770,6 +770,8 @@ public class EmployeeController {
 
    Перейдите в Swagger для проверки
 
+http://localhost:8080/swagger-ui/index.html#/manager-controller/getAllEmployees
+
 </details>
 
 </details>
